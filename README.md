@@ -1,6 +1,5 @@
 # cursedshell
 cursedshell is an exploitation shell meant to exploit LFI,RFI and command injection vulnerabilities 
-I came upon writting this whilst i was working in OSCP labs  i wrote the script and it helped me pwn a number of boxes.
 
 
 ![image](https://user-images.githubusercontent.com/80779456/111996418-610da380-8af0-11eb-9fb7-cfb12bc443db.png)
